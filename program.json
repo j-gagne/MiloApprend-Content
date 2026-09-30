@@ -1897,7 +1897,11 @@
         "t"
       ],
       "graphemes": [
-        "in"
+        {
+          "id": "grapheme-in",
+          "display": "in",
+          "audioText": "ain"
+        }
       ],
       "syllables": [
         "ta",
