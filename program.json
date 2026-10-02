@@ -1,6 +1,13 @@
 {
   "schemaVersion": 1,
   "programId": "milo-school-program",
+  "defaults": {
+    "activeWeek": 6,
+    "exerciseScope": {
+      "mode": "selected-weeks",
+      "selectedWeeks": [6]
+    }
+  }
   "weeks": [
     {
       "number": 2,
