@@ -982,6 +982,23 @@
           "id": "syllable-ché",
           "display": "ché",
           "audioText": "chez"
+        },
+        "ir",
+        "of",
+        "ach",
+        "uf",
+        {
+          "id": "syllable-ér",
+          "display": "ér",
+          "audioText": "ère"
+        },
+        "or",
+        "if",
+        "ar",
+        {
+          "id": "syllable-éch",
+          "display": "éch",
+          "audioText": "èche"
         }
       ],
       "words": [
@@ -1247,10 +1264,201 @@
               "order": 29
             }
           ]
+        },
+        {
+          "id": "practice-niche",
+          "display": "niche",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ni"
+                },
+                {
+                  "unitId": "syllable-che"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐶",
+            "label": "Une niche"
+          }
+        },
+        {
+          "id": "practice-vache",
+          "display": "vache",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-va"
+                },
+                {
+                  "unitId": "syllable-che"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐄",
+            "label": "Une vache"
+          }
+        },
+        {
+          "id": "practice-rue",
+          "display": "rue",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ru"
+                },
+                {
+                  "unitId": "letter-e"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🛣️",
+            "label": "Une rue"
+          }
+        },
+        {
+          "id": "practice-fumee",
+          "display": "fumée",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-fu"
+                },
+                {
+                  "unitId": "syllable-mé"
+                },
+                {
+                  "unitId": "letter-e"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "💨",
+            "label": "De la fumée"
+          }
+        },
+        {
+          "id": "practice-fee",
+          "display": "fée",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-fé"
+                },
+                {
+                  "unitId": "letter-e"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🧚",
+            "label": "Une fée"
+          }
+        },
+        {
+          "id": "practice-lire",
+          "display": "lire",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-li"
+                },
+                {
+                  "unitId": "syllable-re"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "📖",
+            "label": "Lire"
+          }
+        },
+        {
+          "id": "practice-rame",
+          "display": "rame",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ra"
+                },
+                {
+                  "unitId": "syllable-me"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🚣",
+            "label": "Une rame"
+          }
         }
       ],
-      "toolWords": [],
-      "sentences": []
+      "toolWords": [
+        "il",
+        "elle",
+        "est"
+      ],
+      "sentences": [
+        {
+          "id": "sentence-la-rue-est-sale",
+          "display": "La rue est sale."
+        },
+        {
+          "id": "sentence-la-fee-rit",
+          "display": "La fée rit."
+        },
+        {
+          "id": "sentence-le-cheval-lit",
+          "display": "Le cheval lit."
+        }
+      ],
+      "reviewedUnitIds": [
+        "letter-n"
+      ]
     },
     {
       "number": 7,
