@@ -5,9 +5,11 @@
     "activeWeek": 6,
     "exerciseScope": {
       "mode": "selected-weeks",
-      "selectedWeeks": [6]
+      "selectedWeeks": [
+        6
+      ]
     }
-  }
+  },
   "weeks": [
     {
       "number": 2,
@@ -2413,6 +2415,290 @@
       ],
       "toolWords": [],
       "sentences": []
+    }
+  ],
+  "readingExercises": [
+    {
+      "id": "reading-w6-r-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ra"
+        },
+        {
+          "unitId": "syllable-re"
+        },
+        {
+          "unitId": "syllable-ri"
+        },
+        {
+          "unitId": "syllable-ro"
+        },
+        {
+          "unitId": "syllable-ru"
+        },
+        {
+          "unitId": "syllable-ré"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-f-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-fa"
+        },
+        {
+          "unitId": "syllable-fe"
+        },
+        {
+          "unitId": "syllable-fi"
+        },
+        {
+          "unitId": "syllable-fo"
+        },
+        {
+          "unitId": "syllable-fu"
+        },
+        {
+          "unitId": "syllable-fé"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-ch-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-cha"
+        },
+        {
+          "unitId": "syllable-che"
+        },
+        {
+          "unitId": "syllable-chi"
+        },
+        {
+          "unitId": "syllable-cho"
+        },
+        {
+          "unitId": "syllable-chu"
+        },
+        {
+          "unitId": "syllable-ché"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-reverse-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ir"
+        },
+        {
+          "unitId": "syllable-of"
+        },
+        {
+          "unitId": "syllable-ach"
+        },
+        {
+          "unitId": "syllable-uf"
+        },
+        {
+          "unitId": "syllable-ér"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-reverse-syllables-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-or"
+        },
+        {
+          "unitId": "syllable-if"
+        },
+        {
+          "unitId": "syllable-ar"
+        },
+        {
+          "unitId": "syllable-éch"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-rire-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-rire",
+          "segmentUnitIds": [
+            "syllable-ri",
+            "syllable-re"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-rare-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-rare",
+          "segmentUnitIds": [
+            "syllable-ra",
+            "syllable-re"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-farine-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-farine",
+          "segmentUnitIds": [
+            "syllable-fa",
+            "syllable-ri",
+            "syllable-ne"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-fini-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-fini",
+          "segmentUnitIds": [
+            "syllable-fi",
+            "syllable-ni"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-roche-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-roche",
+          "segmentUnitIds": [
+            "syllable-ro",
+            "syllable-che"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-fiche-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-fiche",
+          "segmentUnitIds": [
+            "syllable-fi",
+            "syllable-che"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-niche-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-niche",
+          "segmentUnitIds": [
+            "syllable-ni",
+            "syllable-che"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-vache-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-vache",
+          "segmentUnitIds": [
+            "syllable-va",
+            "syllable-che"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-rue-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-rue",
+          "segmentUnitIds": [
+            "syllable-ru",
+            "letter-e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-fumee-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-fumee",
+          "segmentUnitIds": [
+            "syllable-fu",
+            "syllable-mé",
+            "letter-e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-fee-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-fee",
+          "segmentUnitIds": [
+            "syllable-fé",
+            "letter-e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-lire-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-lire",
+          "segmentUnitIds": [
+            "syllable-li",
+            "syllable-re"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-rame-segmented",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-rame",
+          "segmentUnitIds": [
+            "syllable-ra",
+            "syllable-me"
+          ]
+        }
+      ]
     }
   ]
 }
