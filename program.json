@@ -1045,6 +1045,17 @@
               ],
               "answerPosition": 0,
               "order": 23
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1600
             }
           ]
         },
@@ -1082,6 +1093,17 @@
               ],
               "answerPosition": 1,
               "order": 24
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1601
             }
           ]
         },
@@ -1122,6 +1144,28 @@
               ],
               "answerPosition": 0,
               "order": 25
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1602
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1603
             }
           ]
         },
@@ -1159,6 +1203,17 @@
               ],
               "answerPosition": 2,
               "order": 26
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1604
             }
           ]
         },
@@ -1234,6 +1289,17 @@
               ],
               "answerPosition": 2,
               "order": 28
+            },
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1605
             }
           ]
         },
@@ -1271,6 +1337,17 @@
               ],
               "answerPosition": 0,
               "order": 29
+            },
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1606
             }
           ]
         },
@@ -1296,7 +1373,31 @@
           "imageAsset": {
             "emoji": "🐶",
             "label": "Une niche"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1607
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1608
+            }
+          ]
         },
         {
           "id": "practice-vache",
@@ -1320,7 +1421,31 @@
           "imageAsset": {
             "emoji": "🐄",
             "label": "Une vache"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1609
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1610
+            }
+          ]
         },
         {
           "id": "practice-rue",
@@ -1344,7 +1469,31 @@
           "imageAsset": {
             "emoji": "🛣️",
             "label": "Une rue"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1611
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-f"
+              ],
+              "answerPosition": 1,
+              "order": 1612
+            }
+          ]
         },
         {
           "id": "practice-fumee",
@@ -1371,7 +1520,42 @@
           "imageAsset": {
             "emoji": "💨",
             "label": "De la fumée"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1613
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1614
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-f"
+              ],
+              "answerPosition": 2,
+              "order": 1615
+            }
+          ]
         },
         {
           "id": "practice-fee",
@@ -1395,7 +1579,31 @@
           "imageAsset": {
             "emoji": "🧚",
             "label": "Une fée"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1616
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-f"
+              ],
+              "answerPosition": 1,
+              "order": 1617
+            }
+          ]
         },
         {
           "id": "practice-lire",
@@ -1419,7 +1627,31 @@
           "imageAsset": {
             "emoji": "📖",
             "label": "Lire"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1618
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1619
+            }
+          ]
         },
         {
           "id": "practice-rame",
@@ -1443,7 +1675,31 @@
           "imageAsset": {
             "emoji": "🚣",
             "label": "Une rame"
-          }
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1620
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1621
+            }
+          ]
         }
       ],
       "toolWords": [
@@ -1463,6 +1719,34 @@
         {
           "id": "sentence-le-cheval-lit",
           "display": "Le cheval lit."
+        },
+        {
+          "id": "sentence-w6-004",
+          "display": "Il a une fiche."
+        },
+        {
+          "id": "sentence-w6-005",
+          "display": "La vache a une niche."
+        },
+        {
+          "id": "sentence-w6-006",
+          "display": "Il a vu une roche."
+        },
+        {
+          "id": "sentence-w6-007",
+          "display": "Elle a vu une fée."
+        },
+        {
+          "id": "sentence-w6-008",
+          "display": "La fumée va sur la rue."
+        },
+        {
+          "id": "sentence-w6-009",
+          "display": "Il a fini de lire."
+        },
+        {
+          "id": "sentence-w6-010",
+          "display": "Le chat a vu la vache."
         }
       ],
       "reviewedUnitIds": [
@@ -1535,7 +1819,15 @@
         "nou",
         "rou",
         "fou",
-        "chou"
+        "chou",
+        "èf",
+        "our",
+        "iv",
+        "ach",
+        "êv",
+        "oum",
+        "ur",
+        "och"
       ],
       "words": [
         {
@@ -1610,6 +1902,17 @@
               ],
               "answerPosition": 0,
               "order": 31
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1722
             }
           ]
         },
@@ -1647,6 +1950,17 @@
               ],
               "answerPosition": 2,
               "order": 32
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1723
             }
           ]
         },
@@ -1684,6 +1998,17 @@
               ],
               "answerPosition": 0,
               "order": 33
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1724
             }
           ]
         },
@@ -1721,6 +2046,17 @@
               ],
               "answerPosition": 1,
               "order": 34
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1725
             }
           ]
         },
@@ -1758,6 +2094,17 @@
               ],
               "answerPosition": 2,
               "order": 35
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1726
             }
           ]
         },
@@ -1794,10 +2141,415 @@
               "order": 36
             }
           ]
+        },
+        {
+          "id": "practice-foret",
+          "display": "forêt",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-fo"
+                },
+                {
+                  "unitId": "syllable-rê"
+                },
+                {
+                  "literal": "letter-t",
+                  "note": "Segment visible, non utilisé comme réponse."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🌲",
+            "label": "Une forêt"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1727
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1728
+            }
+          ]
+        },
+        {
+          "id": "practice-feve",
+          "display": "fève",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-fè"
+                },
+                {
+                  "unitId": "syllable-ve"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🫘",
+            "label": "Une fève"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 1,
+              "order": 1729
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 2,
+              "order": 1730
+            }
+          ]
+        },
+        {
+          "id": "practice-loup",
+          "display": "loup",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-lou"
+                },
+                {
+                  "literal": "p",
+                  "note": "Segment visible, non utilisé comme réponse."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐺",
+            "label": "Un loup"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1731
+            }
+          ]
+        },
+        {
+          "id": "practice-mouche",
+          "display": "mouche",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-mou"
+                },
+                {
+                  "unitId": "syllable-che"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🪰",
+            "label": "Une mouche"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1732
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 2,
+              "order": 1733
+            }
+          ]
+        },
+        {
+          "id": "practice-sou",
+          "display": "sou",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-sou"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🪙",
+            "label": "Un sou"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1734
+            }
+          ]
+        },
+        {
+          "id": "practice-four",
+          "display": "four",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-fou"
+                },
+                {
+                  "unitId": "letter-r"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🔥",
+            "label": "Un four"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1735
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-e"
+              ],
+              "answerPosition": 2,
+              "order": 1736
+            }
+          ]
+        },
+        {
+          "id": "practice-fourmi",
+          "display": "fourmi",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-fou"
+                },
+                {
+                  "unitId": "letter-r"
+                },
+                {
+                  "unitId": "syllable-mi"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐜",
+            "label": "Une fourmi"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-cha"
+              ],
+              "answerPosition": 1,
+              "order": 1737
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-e"
+              ],
+              "answerPosition": 2,
+              "order": 1738
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-ar",
+                "syllable-as"
+              ],
+              "answerPosition": 0,
+              "order": 1739
+            }
+          ]
         }
       ],
-      "toolWords": [],
-      "sentences": []
+      "toolWords": [
+        "il",
+        "elle",
+        "il y a",
+        "est",
+        "et"
+      ],
+      "sentences": [
+        {
+          "id": "sentence-w7-001",
+          "display": "Elle a vu le chou."
+        },
+        {
+          "id": "sentence-w7-002",
+          "display": "Le loup est fou."
+        },
+        {
+          "id": "sentence-w7-003",
+          "display": "Ma mère rêve."
+        },
+        {
+          "id": "sentence-w7-004",
+          "display": "Il y a une mouche."
+        },
+        {
+          "id": "sentence-w7-005",
+          "display": "La mère a vu le loup."
+        },
+        {
+          "id": "sentence-w7-006",
+          "display": "Elle rêve de la forêt."
+        },
+        {
+          "id": "sentence-w7-007",
+          "display": "Il a vu une fève."
+        },
+        {
+          "id": "sentence-w7-008",
+          "display": "Le chou est sur la roche."
+        },
+        {
+          "id": "sentence-w7-009",
+          "display": "La mouche vole."
+        },
+        {
+          "id": "sentence-w7-010",
+          "display": "Il y a une mouche sur le chou."
+        },
+        {
+          "id": "sentence-w7-011",
+          "display": "Le loup a vu la mouche."
+        },
+        {
+          "id": "sentence-w7-012",
+          "display": "Ma mère a une fève."
+        },
+        {
+          "id": "sentence-w7-013",
+          "display": "Le loup rêve."
+        },
+        {
+          "id": "sentence-w7-014",
+          "display": "Elle a vu la foule."
+        },
+        {
+          "id": "sentence-w7-015",
+          "display": "Il a vu une fourmi."
+        },
+        {
+          "id": "sentence-w7-016",
+          "display": "La fourmi est sur la roche."
+        },
+        {
+          "id": "sentence-w7-017",
+          "display": "Le loup est dans la forêt."
+        }
+      ]
     },
     {
       "number": 8,
@@ -1827,7 +2579,24 @@
         "jé",
         "jè",
         "jê",
-        "jou"
+        "jou",
+        "bon",
+        "jon",
+        "mon",
+        "lon",
+        "son",
+        "ron",
+        "fon",
+        "von",
+        "chon",
+        "oj",
+        "onb",
+        "ub",
+        "aj",
+        "ouj",
+        "ib",
+        "ob",
+        "uj"
       ],
       "words": [
         {
@@ -1864,6 +2633,17 @@
               ],
               "answerPosition": 0,
               "order": 37
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1840
             }
           ]
         },
@@ -1901,6 +2681,17 @@
               ],
               "answerPosition": 1,
               "order": 38
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1841
             }
           ]
         },
@@ -1946,6 +2737,50 @@
               ],
               "answerPosition": 2,
               "order": 39
+            },
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-e"
+              ],
+              "answerPosition": 2,
+              "order": 1842
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "grapheme-ch",
+                "grapheme-ou"
+              ],
+              "answerPosition": 0,
+              "order": 1843
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-e"
+              ],
+              "answerPosition": 1,
+              "order": 1844
+            },
+            {
+              "id": "supplement-3",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 3,
+              "distractorUnitIds": [
+                "grapheme-ch",
+                "grapheme-ou"
+              ],
+              "answerPosition": 2,
+              "order": 1845
             }
           ]
         },
@@ -1983,6 +2818,17 @@
               ],
               "answerPosition": 0,
               "order": 40
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1846
             }
           ]
         },
@@ -2020,6 +2866,17 @@
               ],
               "answerPosition": 1,
               "order": 41
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-b"
+              ],
+              "answerPosition": 0,
+              "order": 1847
             }
           ]
         },
@@ -2057,6 +2914,17 @@
               ],
               "answerPosition": 2,
               "order": 42
+            },
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1848
             }
           ]
         },
@@ -2100,12 +2968,1045 @@
               ],
               "answerPosition": 0,
               "order": 43
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 1,
+              "order": 1849
+            },
+            {
+              "id": "supplement-3",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 3,
+              "distractorUnitIds": [
+                "letter-a",
+                "letter-b"
+              ],
+              "answerPosition": 2,
+              "order": 1850
+            }
+          ]
+        },
+        {
+          "id": "practice-jus",
+          "display": "jus",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ju"
+                },
+                {
+                  "literal": "s",
+                  "note": "Segment visible, non utilisé comme réponse."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🧃",
+            "label": "Du jus"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1851
+            }
+          ]
+        },
+        {
+          "id": "practice-biberon",
+          "display": "biberon",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-bi"
+                },
+                {
+                  "unitId": "syllable-be"
+                },
+                {
+                  "unitId": "syllable-ron"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🍼",
+            "label": "Un biberon"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1852
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1853
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 1,
+              "order": 1854
+            }
+          ]
+        },
+        {
+          "id": "practice-lavabo",
+          "display": "lavabo",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-la"
+                },
+                {
+                  "unitId": "syllable-va"
+                },
+                {
+                  "unitId": "syllable-bo"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🚰",
+            "label": "Un lavabo"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1855
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1856
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 1,
+              "order": 1857
+            }
+          ]
+        },
+        {
+          "id": "practice-savon",
+          "display": "savon",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-sa"
+                },
+                {
+                  "unitId": "syllable-von"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🧼",
+            "label": "Un savon"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1858
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 0,
+              "order": 1859
+            }
+          ]
+        },
+        {
+          "id": "practice-ballon",
+          "display": "ballon",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ba"
+                },
+                {
+                  "literal": "l",
+                  "note": "Segment visible, non utilisé comme réponse."
+                },
+                {
+                  "unitId": "syllable-lon"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "⚽",
+            "label": "Un ballon"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1860
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 1,
+              "order": 1861
+            }
+          ]
+        },
+        {
+          "id": "practice-melon",
+          "display": "melon",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-me"
+                },
+                {
+                  "unitId": "syllable-lon"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🍈",
+            "label": "Un melon"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1862
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 0,
+              "order": 1863
+            }
+          ]
+        },
+        {
+          "id": "practice-balle",
+          "display": "balle",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ba"
+                },
+                {
+                  "literal": "l",
+                  "note": "Segment visible, non utilisé comme réponse."
+                },
+                {
+                  "unitId": "syllable-le"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🏐",
+            "label": "Une balle"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1864
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 1,
+              "order": 1865
+            }
+          ]
+        },
+        {
+          "id": "practice-jument",
+          "display": "jument",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ju"
+                },
+                {
+                  "unitId": "syllable-me"
+                },
+                {
+                  "literal": "n",
+                  "note": "Segment visible, non utilisé comme réponse."
+                },
+                {
+                  "literal": "t",
+                  "note": "Segment visible, non utilisé comme réponse."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐴",
+            "label": "Une jument"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1866
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1867
+            }
+          ]
+        },
+        {
+          "id": "practice-robe",
+          "display": "robe",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ro"
+                },
+                {
+                  "unitId": "syllable-be"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "👗",
+            "label": "Une robe"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1868
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1869
+            }
+          ]
+        },
+        {
+          "id": "practice-bobine",
+          "display": "bobine",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-bo"
+                },
+                {
+                  "unitId": "syllable-bi"
+                },
+                {
+                  "unitId": "syllable-ne"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🧵",
+            "label": "Une bobine"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1870
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1871
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 1,
+              "order": 1872
+            }
+          ]
+        },
+        {
+          "id": "practice-javelot",
+          "display": "javelot",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ja"
+                },
+                {
+                  "unitId": "syllable-ve"
+                },
+                {
+                  "unitId": "syllable-lo"
+                },
+                {
+                  "literal": "t",
+                  "note": "Segment visible, non utilisé comme réponse."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🎯",
+            "label": "Un javelot"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1873
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1874
+            },
+            {
+              "id": "supplement-2",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 1,
+              "order": 1875
+            }
+          ]
+        },
+        {
+          "id": "practice-bon",
+          "display": "bon",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-bon"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "👍",
+            "label": "Bon"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bou"
+              ],
+              "answerPosition": 2,
+              "order": 1876
+            }
+          ]
+        },
+        {
+          "id": "practice-joujou",
+          "display": "joujou",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-jou"
+                },
+                {
+                  "unitId": "syllable-jou"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🧸",
+            "label": "Un joujou"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 2,
+              "order": 1877
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 0,
+              "order": 1878
+            }
+          ]
+        },
+        {
+          "id": "practice-bave",
+          "display": "bave",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ba"
+                },
+                {
+                  "unitId": "syllable-ve"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "💧",
+            "label": "De la bave"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 2,
+              "order": 1879
+            },
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-aj",
+                "syllable-ar"
+              ],
+              "answerPosition": 0,
+              "order": 1880
+            }
+          ]
+        },
+        {
+          "id": "practice-buche",
+          "display": "bûche",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "bû",
+                  "note": "Segment visible, non utilisé comme réponse."
+                },
+                {
+                  "unitId": "syllable-che"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🪵",
+            "label": "Une bûche"
+          },
+          "completeWord": [
+            {
+              "id": "supplement-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ach",
+                "syllable-bon"
+              ],
+              "answerPosition": 0,
+              "order": 1881
             }
           ]
         }
       ],
-      "toolWords": [],
-      "sentences": []
+      "toolWords": [
+        "il",
+        "elle",
+        "est",
+        "et",
+        "j’ai",
+        "un",
+        "une"
+      ],
+      "sentences": [
+        {
+          "id": "sentence-w8-001",
+          "display": "Un bébé joue."
+        },
+        {
+          "id": "sentence-w8-002",
+          "display": "Elle a vu un ballon."
+        },
+        {
+          "id": "sentence-w8-003",
+          "display": "Il a volé un bonbon."
+        },
+        {
+          "id": "sentence-w8-004",
+          "display": "J’ai lavé un biberon."
+        },
+        {
+          "id": "sentence-w8-005",
+          "display": "Le melon est bon !"
+        },
+        {
+          "id": "sentence-w8-006",
+          "display": "J’ai joué avec une balle."
+        },
+        {
+          "id": "sentence-w8-007",
+          "display": "Le bébé joue avec une boule."
+        },
+        {
+          "id": "sentence-w8-008",
+          "display": "Il a un joli bijou."
+        },
+        {
+          "id": "sentence-w8-009",
+          "display": "Elle a un bonbon."
+        },
+        {
+          "id": "sentence-w8-010",
+          "display": "Il y a un ballon."
+        },
+        {
+          "id": "sentence-w8-011",
+          "display": "Le bébé a vu le loup."
+        },
+        {
+          "id": "sentence-w8-012",
+          "display": "Le loup joue avec la balle."
+        },
+        {
+          "id": "sentence-w8-013",
+          "display": "La mère a un bébé."
+        },
+        {
+          "id": "sentence-w8-014",
+          "display": "Le bébé a un biberon."
+        },
+        {
+          "id": "sentence-w8-015",
+          "display": "Le bébé a vu une mouche."
+        },
+        {
+          "id": "sentence-w8-016",
+          "display": "Elle a vu un joli ballon."
+        },
+        {
+          "id": "sentence-w8-017",
+          "display": "Le ballon roule."
+        },
+        {
+          "id": "sentence-w8-018",
+          "display": "Le ballon roule sur la rue."
+        },
+        {
+          "id": "sentence-w8-019",
+          "display": "La boule roule sur le sol."
+        },
+        {
+          "id": "sentence-w8-020",
+          "display": "Le bonbon est sur le lit."
+        },
+        {
+          "id": "sentence-w8-021",
+          "display": "Il y a un bonbon sur la table."
+        },
+        {
+          "id": "sentence-w8-022",
+          "display": "La fée a un bijou."
+        },
+        {
+          "id": "sentence-w8-023",
+          "display": "Le joli bijou est à mémé."
+        },
+        {
+          "id": "sentence-w8-024",
+          "display": "Il a un savon."
+        },
+        {
+          "id": "sentence-w8-025",
+          "display": "Le savon est sur le lavabo."
+        },
+        {
+          "id": "sentence-w8-026",
+          "display": "Elle lave le lavabo."
+        },
+        {
+          "id": "sentence-w8-027",
+          "display": "Il a lavé le lavabo."
+        },
+        {
+          "id": "sentence-w8-028",
+          "display": "J’ai vu une robe."
+        },
+        {
+          "id": "sentence-w8-029",
+          "display": "La robe est jolie."
+        },
+        {
+          "id": "sentence-w8-030",
+          "display": "Le bébé a une jolie robe."
+        },
+        {
+          "id": "sentence-w8-031",
+          "display": "La jument a vu le loup."
+        },
+        {
+          "id": "sentence-w8-032",
+          "display": "Le loup a vu la jument."
+        },
+        {
+          "id": "sentence-w8-033",
+          "display": "Il y a un melon et un bonbon."
+        },
+        {
+          "id": "sentence-w8-034",
+          "display": "Le melon est sur le lavabo."
+        },
+        {
+          "id": "sentence-w8-035",
+          "display": "La mère a lavé le biberon."
+        },
+        {
+          "id": "sentence-w8-036",
+          "display": "Elle a lavé la balle."
+        },
+        {
+          "id": "sentence-w8-037",
+          "display": "Il a joué avec une boule."
+        },
+        {
+          "id": "sentence-w8-038",
+          "display": "Le bébé joue avec un joujou."
+        },
+        {
+          "id": "sentence-w8-039",
+          "display": "Le joujou est sur le lit."
+        },
+        {
+          "id": "sentence-w8-040",
+          "display": "Il a vu un ballon et une balle."
+        },
+        {
+          "id": "sentence-w8-041",
+          "display": "Le ballon est joli."
+        },
+        {
+          "id": "sentence-w8-042",
+          "display": "J’ai vu une mouche sur le melon."
+        },
+        {
+          "id": "sentence-w8-043",
+          "display": "La fourmi est sur le bonbon."
+        },
+        {
+          "id": "sentence-w8-044",
+          "display": "Le loup rêve de bonbons."
+        },
+        {
+          "id": "sentence-w8-045",
+          "display": "Le bébé rit et joue."
+        },
+        {
+          "id": "sentence-w8-046",
+          "display": "Il a vu le joli vélo."
+        },
+        {
+          "id": "sentence-w8-047",
+          "display": "Elle a un vélo et un ballon."
+        },
+        {
+          "id": "sentence-w8-048",
+          "display": "La fée joue avec le bébé."
+        },
+        {
+          "id": "sentence-w8-049",
+          "display": "Il y a une fève dans le melon."
+        },
+        {
+          "id": "sentence-w8-050",
+          "display": "Le bébé a vu la lune."
+        },
+        {
+          "id": "sentence-w8-051",
+          "display": "Le loup a vu le joli bijou."
+        },
+        {
+          "id": "sentence-w8-052",
+          "display": "La mère rêve de la forêt."
+        },
+        {
+          "id": "sentence-w8-053",
+          "display": "Elle a vu un chat sur la roche."
+        },
+        {
+          "id": "sentence-w8-054",
+          "display": "Il y a une balle sur le lit."
+        },
+        {
+          "id": "sentence-w8-055",
+          "display": "J’ai un bonbon et un jus."
+        },
+        {
+          "id": "sentence-w8-056",
+          "display": "Le jus est bon."
+        },
+        {
+          "id": "sentence-w8-057",
+          "display": "Elle a un joli chou."
+        },
+        {
+          "id": "sentence-w8-058",
+          "display": "Le bébé a vu une vache."
+        },
+        {
+          "id": "sentence-w8-059",
+          "display": "La vache est dans la savane."
+        },
+        {
+          "id": "sentence-w8-060",
+          "display": "La mère a vu le savon."
+        }
+      ]
     },
     {
       "number": 9,
@@ -2697,6 +4598,1160 @@
             "syllable-ra",
             "syllable-me"
           ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ra"
+        },
+        {
+          "unitId": "syllable-re"
+        },
+        {
+          "unitId": "syllable-ri"
+        },
+        {
+          "unitId": "syllable-ro"
+        },
+        {
+          "unitId": "syllable-ru"
+        },
+        {
+          "unitId": "syllable-ré"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-syllables-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-fa"
+        },
+        {
+          "unitId": "syllable-fe"
+        },
+        {
+          "unitId": "syllable-fi"
+        },
+        {
+          "unitId": "syllable-fo"
+        },
+        {
+          "unitId": "syllable-fu"
+        },
+        {
+          "unitId": "syllable-fé"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-syllables-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-cha"
+        },
+        {
+          "unitId": "syllable-che"
+        },
+        {
+          "unitId": "syllable-chi"
+        },
+        {
+          "unitId": "syllable-cho"
+        },
+        {
+          "unitId": "syllable-chu"
+        },
+        {
+          "unitId": "syllable-ché"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-syllables-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ir"
+        },
+        {
+          "unitId": "syllable-of"
+        },
+        {
+          "unitId": "syllable-ach"
+        },
+        {
+          "unitId": "syllable-uf"
+        },
+        {
+          "unitId": "syllable-ér"
+        },
+        {
+          "unitId": "syllable-or"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-syllables-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-if"
+        },
+        {
+          "unitId": "syllable-ar"
+        },
+        {
+          "unitId": "syllable-éch"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-words-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-rire",
+          "segmentUnitIds": [
+            "syllable-ri",
+            "syllable-re"
+          ]
+        },
+        {
+          "unitId": "practice-rare",
+          "segmentUnitIds": [
+            "syllable-ra",
+            "syllable-re"
+          ]
+        },
+        {
+          "unitId": "practice-farine",
+          "segmentUnitIds": [
+            "syllable-fa",
+            "syllable-ri",
+            "syllable-ne"
+          ]
+        },
+        {
+          "unitId": "practice-fini",
+          "segmentUnitIds": [
+            "syllable-fi",
+            "syllable-ni"
+          ]
+        },
+        {
+          "unitId": "practice-chat"
+        },
+        {
+          "unitId": "practice-roche",
+          "segmentUnitIds": [
+            "syllable-ro",
+            "syllable-che"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-words-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-fiche",
+          "segmentUnitIds": [
+            "syllable-fi",
+            "syllable-che"
+          ]
+        },
+        {
+          "unitId": "practice-niche",
+          "segmentUnitIds": [
+            "syllable-ni",
+            "syllable-che"
+          ]
+        },
+        {
+          "unitId": "practice-vache",
+          "segmentUnitIds": [
+            "syllable-va",
+            "syllable-che"
+          ]
+        },
+        {
+          "unitId": "practice-rue",
+          "segmentUnitIds": [
+            "syllable-ru",
+            "letter-e"
+          ]
+        },
+        {
+          "unitId": "practice-fumee",
+          "segmentUnitIds": [
+            "syllable-fu",
+            "syllable-mé",
+            "letter-e"
+          ]
+        },
+        {
+          "unitId": "practice-fee",
+          "segmentUnitIds": [
+            "syllable-fé",
+            "letter-e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-words-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-lire",
+          "segmentUnitIds": [
+            "syllable-li",
+            "syllable-re"
+          ]
+        },
+        {
+          "unitId": "practice-rame",
+          "segmentUnitIds": [
+            "syllable-ra",
+            "syllable-me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-sentences-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-la-rue-est-sale"
+        },
+        {
+          "unitId": "sentence-la-fee-rit"
+        },
+        {
+          "unitId": "sentence-le-cheval-lit"
+        },
+        {
+          "unitId": "sentence-w6-004"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-sentences-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w6-005"
+        },
+        {
+          "unitId": "sentence-w6-006"
+        },
+        {
+          "unitId": "sentence-w6-007"
+        },
+        {
+          "unitId": "sentence-w6-008"
+        }
+      ]
+    },
+    {
+      "id": "reading-w6-enriched-sentences-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w6-009"
+        },
+        {
+          "unitId": "sentence-w6-010"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-mè"
+        },
+        {
+          "unitId": "syllable-lè"
+        },
+        {
+          "unitId": "syllable-sè"
+        },
+        {
+          "unitId": "syllable-vè"
+        },
+        {
+          "unitId": "syllable-nè"
+        },
+        {
+          "unitId": "syllable-rè"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-syllables-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-fè"
+        },
+        {
+          "unitId": "syllable-chè"
+        },
+        {
+          "unitId": "syllable-mê"
+        },
+        {
+          "unitId": "syllable-lê"
+        },
+        {
+          "unitId": "syllable-sê"
+        },
+        {
+          "unitId": "syllable-vê"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-syllables-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-nê"
+        },
+        {
+          "unitId": "syllable-rê"
+        },
+        {
+          "unitId": "syllable-fê"
+        },
+        {
+          "unitId": "syllable-chê"
+        },
+        {
+          "unitId": "syllable-mou"
+        },
+        {
+          "unitId": "syllable-lou"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-syllables-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-sou"
+        },
+        {
+          "unitId": "syllable-vou"
+        },
+        {
+          "unitId": "syllable-nou"
+        },
+        {
+          "unitId": "syllable-rou"
+        },
+        {
+          "unitId": "syllable-fou"
+        },
+        {
+          "unitId": "syllable-chou"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-syllables-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-èf"
+        },
+        {
+          "unitId": "syllable-our"
+        },
+        {
+          "unitId": "syllable-iv"
+        },
+        {
+          "unitId": "syllable-ach"
+        },
+        {
+          "unitId": "syllable-êv"
+        },
+        {
+          "unitId": "syllable-oum"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-syllables-6",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ur"
+        },
+        {
+          "unitId": "syllable-och"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-words-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-pere"
+        },
+        {
+          "unitId": "practice-mere",
+          "segmentUnitIds": [
+            "syllable-mè",
+            "syllable-re"
+          ]
+        },
+        {
+          "unitId": "practice-reve",
+          "segmentUnitIds": [
+            "syllable-rê",
+            "syllable-ve"
+          ]
+        },
+        {
+          "unitId": "practice-moule",
+          "segmentUnitIds": [
+            "syllable-mou",
+            "syllable-le"
+          ]
+        },
+        {
+          "unitId": "practice-roule",
+          "segmentUnitIds": [
+            "syllable-rou",
+            "syllable-le"
+          ]
+        },
+        {
+          "unitId": "practice-foule",
+          "segmentUnitIds": [
+            "syllable-fou",
+            "syllable-le"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-words-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-chou",
+          "segmentUnitIds": [
+            "syllable-chou"
+          ]
+        },
+        {
+          "unitId": "practice-foret"
+        },
+        {
+          "unitId": "practice-feve",
+          "segmentUnitIds": [
+            "syllable-fè",
+            "syllable-ve"
+          ]
+        },
+        {
+          "unitId": "practice-loup"
+        },
+        {
+          "unitId": "practice-mouche",
+          "segmentUnitIds": [
+            "syllable-mou",
+            "syllable-che"
+          ]
+        },
+        {
+          "unitId": "practice-sou",
+          "segmentUnitIds": [
+            "syllable-sou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-words-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-four",
+          "segmentUnitIds": [
+            "syllable-fou",
+            "letter-r"
+          ]
+        },
+        {
+          "unitId": "practice-fourmi",
+          "segmentUnitIds": [
+            "syllable-fou",
+            "letter-r",
+            "syllable-mi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-sentences-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w7-001"
+        },
+        {
+          "unitId": "sentence-w7-002"
+        },
+        {
+          "unitId": "sentence-w7-003"
+        },
+        {
+          "unitId": "sentence-w7-004"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-sentences-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w7-005"
+        },
+        {
+          "unitId": "sentence-w7-006"
+        },
+        {
+          "unitId": "sentence-w7-007"
+        },
+        {
+          "unitId": "sentence-w7-008"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-sentences-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w7-009"
+        },
+        {
+          "unitId": "sentence-w7-010"
+        },
+        {
+          "unitId": "sentence-w7-011"
+        },
+        {
+          "unitId": "sentence-w7-012"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-sentences-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w7-013"
+        },
+        {
+          "unitId": "sentence-w7-014"
+        },
+        {
+          "unitId": "sentence-w7-015"
+        },
+        {
+          "unitId": "sentence-w7-016"
+        }
+      ]
+    },
+    {
+      "id": "reading-w7-enriched-sentences-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w7-017"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ba"
+        },
+        {
+          "unitId": "syllable-be"
+        },
+        {
+          "unitId": "syllable-bi"
+        },
+        {
+          "unitId": "syllable-bo"
+        },
+        {
+          "unitId": "syllable-bu"
+        },
+        {
+          "unitId": "syllable-bé"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-syllables-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-bè"
+        },
+        {
+          "unitId": "syllable-bê"
+        },
+        {
+          "unitId": "syllable-bou"
+        },
+        {
+          "unitId": "syllable-ja"
+        },
+        {
+          "unitId": "syllable-je"
+        },
+        {
+          "unitId": "syllable-ji"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-syllables-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-jo"
+        },
+        {
+          "unitId": "syllable-ju"
+        },
+        {
+          "unitId": "syllable-jé"
+        },
+        {
+          "unitId": "syllable-jè"
+        },
+        {
+          "unitId": "syllable-jê"
+        },
+        {
+          "unitId": "syllable-jou"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-syllables-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-bon"
+        },
+        {
+          "unitId": "syllable-jon"
+        },
+        {
+          "unitId": "syllable-mon"
+        },
+        {
+          "unitId": "syllable-lon"
+        },
+        {
+          "unitId": "syllable-son"
+        },
+        {
+          "unitId": "syllable-ron"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-syllables-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-fon"
+        },
+        {
+          "unitId": "syllable-von"
+        },
+        {
+          "unitId": "syllable-chon"
+        },
+        {
+          "unitId": "syllable-oj"
+        },
+        {
+          "unitId": "syllable-onb"
+        },
+        {
+          "unitId": "syllable-ub"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-syllables-6",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-aj"
+        },
+        {
+          "unitId": "syllable-ouj"
+        },
+        {
+          "unitId": "syllable-ib"
+        },
+        {
+          "unitId": "syllable-ob"
+        },
+        {
+          "unitId": "syllable-uj"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-words-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-bebe",
+          "segmentUnitIds": [
+            "syllable-bé",
+            "syllable-bé"
+          ]
+        },
+        {
+          "unitId": "practice-boule",
+          "segmentUnitIds": [
+            "syllable-bou",
+            "syllable-le"
+          ]
+        },
+        {
+          "unitId": "practice-bonbon",
+          "segmentUnitIds": [
+            "letter-b",
+            "grapheme-on",
+            "letter-b",
+            "grapheme-on"
+          ]
+        },
+        {
+          "unitId": "practice-joli",
+          "segmentUnitIds": [
+            "syllable-jo",
+            "syllable-li"
+          ]
+        },
+        {
+          "unitId": "practice-joue",
+          "segmentUnitIds": [
+            "syllable-jou",
+            "letter-e"
+          ]
+        },
+        {
+          "unitId": "practice-bijou",
+          "segmentUnitIds": [
+            "syllable-bi",
+            "syllable-jou"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-words-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-bonjour"
+        },
+        {
+          "unitId": "practice-jus"
+        },
+        {
+          "unitId": "practice-biberon",
+          "segmentUnitIds": [
+            "syllable-bi",
+            "syllable-be",
+            "syllable-ron"
+          ]
+        },
+        {
+          "unitId": "practice-lavabo",
+          "segmentUnitIds": [
+            "syllable-la",
+            "syllable-va",
+            "syllable-bo"
+          ]
+        },
+        {
+          "unitId": "practice-savon",
+          "segmentUnitIds": [
+            "syllable-sa",
+            "syllable-von"
+          ]
+        },
+        {
+          "unitId": "practice-ballon"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-words-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-melon",
+          "segmentUnitIds": [
+            "syllable-me",
+            "syllable-lon"
+          ]
+        },
+        {
+          "unitId": "practice-balle"
+        },
+        {
+          "unitId": "practice-jument"
+        },
+        {
+          "unitId": "practice-robe",
+          "segmentUnitIds": [
+            "syllable-ro",
+            "syllable-be"
+          ]
+        },
+        {
+          "unitId": "practice-bobine",
+          "segmentUnitIds": [
+            "syllable-bo",
+            "syllable-bi",
+            "syllable-ne"
+          ]
+        },
+        {
+          "unitId": "practice-javelot"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-words-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "practice-bon",
+          "segmentUnitIds": [
+            "syllable-bon"
+          ]
+        },
+        {
+          "unitId": "practice-joujou",
+          "segmentUnitIds": [
+            "syllable-jou",
+            "syllable-jou"
+          ]
+        },
+        {
+          "unitId": "practice-bave",
+          "segmentUnitIds": [
+            "syllable-ba",
+            "syllable-ve"
+          ]
+        },
+        {
+          "unitId": "practice-buche"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-001"
+        },
+        {
+          "unitId": "sentence-w8-002"
+        },
+        {
+          "unitId": "sentence-w8-003"
+        },
+        {
+          "unitId": "sentence-w8-004"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-005"
+        },
+        {
+          "unitId": "sentence-w8-006"
+        },
+        {
+          "unitId": "sentence-w8-007"
+        },
+        {
+          "unitId": "sentence-w8-008"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-009"
+        },
+        {
+          "unitId": "sentence-w8-010"
+        },
+        {
+          "unitId": "sentence-w8-011"
+        },
+        {
+          "unitId": "sentence-w8-012"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-013"
+        },
+        {
+          "unitId": "sentence-w8-014"
+        },
+        {
+          "unitId": "sentence-w8-015"
+        },
+        {
+          "unitId": "sentence-w8-016"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-017"
+        },
+        {
+          "unitId": "sentence-w8-018"
+        },
+        {
+          "unitId": "sentence-w8-019"
+        },
+        {
+          "unitId": "sentence-w8-020"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-6",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-021"
+        },
+        {
+          "unitId": "sentence-w8-022"
+        },
+        {
+          "unitId": "sentence-w8-023"
+        },
+        {
+          "unitId": "sentence-w8-024"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-7",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-025"
+        },
+        {
+          "unitId": "sentence-w8-026"
+        },
+        {
+          "unitId": "sentence-w8-027"
+        },
+        {
+          "unitId": "sentence-w8-028"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-8",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-029"
+        },
+        {
+          "unitId": "sentence-w8-030"
+        },
+        {
+          "unitId": "sentence-w8-031"
+        },
+        {
+          "unitId": "sentence-w8-032"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-9",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-033"
+        },
+        {
+          "unitId": "sentence-w8-034"
+        },
+        {
+          "unitId": "sentence-w8-035"
+        },
+        {
+          "unitId": "sentence-w8-036"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-10",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-037"
+        },
+        {
+          "unitId": "sentence-w8-038"
+        },
+        {
+          "unitId": "sentence-w8-039"
+        },
+        {
+          "unitId": "sentence-w8-040"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-11",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-041"
+        },
+        {
+          "unitId": "sentence-w8-042"
+        },
+        {
+          "unitId": "sentence-w8-043"
+        },
+        {
+          "unitId": "sentence-w8-044"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-12",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-045"
+        },
+        {
+          "unitId": "sentence-w8-046"
+        },
+        {
+          "unitId": "sentence-w8-047"
+        },
+        {
+          "unitId": "sentence-w8-048"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-13",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-049"
+        },
+        {
+          "unitId": "sentence-w8-050"
+        },
+        {
+          "unitId": "sentence-w8-051"
+        },
+        {
+          "unitId": "sentence-w8-052"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-14",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-053"
+        },
+        {
+          "unitId": "sentence-w8-054"
+        },
+        {
+          "unitId": "sentence-w8-055"
+        },
+        {
+          "unitId": "sentence-w8-056"
+        }
+      ]
+    },
+    {
+      "id": "reading-w8-enriched-sentences-15",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w8-057"
+        },
+        {
+          "unitId": "sentence-w8-058"
+        },
+        {
+          "unitId": "sentence-w8-059"
+        },
+        {
+          "unitId": "sentence-w8-060"
         }
       ]
     }
