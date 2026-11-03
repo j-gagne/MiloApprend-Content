@@ -612,7 +612,8 @@
                 },
                 {
                   "literal": "d",
-                  "note": "Segment visible hérité du prototype ; lettre non autorisée isolément."
+                  "note": "Segment visible hérité du prototype ; lettre non autorisée isolément.",
+                  "silent": true
                 }
               ]
             }
@@ -681,7 +682,8 @@
                 },
                 {
                   "literal": "t",
-                  "note": "Lettre visible dans ce mot scolaire ; non autorisée comme réponse isolée."
+                  "note": "Lettre visible dans ce mot scolaire ; non autorisée comme réponse isolée.",
+                  "silent": true
                 }
               ]
             }
@@ -1232,7 +1234,8 @@
                 },
                 {
                   "literal": "t",
-                  "note": "Lettre visible ; non ciblée par cet exercice de syllabe."
+                  "note": "Lettre visible ; non ciblée par cet exercice de syllabe.",
+                  "silent": true
                 }
               ]
             }
@@ -1461,7 +1464,8 @@
                   "unitId": "syllable-ru"
                 },
                 {
-                  "unitId": "letter-e"
+                  "unitId": "letter-e",
+                  "silent": true
                 }
               ]
             }
@@ -1485,10 +1489,10 @@
             {
               "id": "supplement-1",
               "segmentationId": "initial",
-              "missingSegmentIndex": 1,
+              "missingSegmentIndex": 0,
               "distractorUnitIds": [
-                "letter-a",
-                "letter-f"
+                "syllable-ra",
+                "syllable-ro"
               ],
               "answerPosition": 1,
               "order": 1612
@@ -1512,7 +1516,8 @@
                   "unitId": "syllable-mé"
                 },
                 {
-                  "unitId": "letter-e"
+                  "unitId": "letter-e",
+                  "silent": true
                 }
               ]
             }
@@ -1547,10 +1552,10 @@
             {
               "id": "supplement-2",
               "segmentationId": "initial",
-              "missingSegmentIndex": 2,
+              "missingSegmentIndex": 1,
               "distractorUnitIds": [
-                "letter-a",
-                "letter-f"
+                "syllable-ma",
+                "syllable-mi"
               ],
               "answerPosition": 2,
               "order": 1615
@@ -1571,7 +1576,8 @@
                   "unitId": "syllable-fé"
                 },
                 {
-                  "unitId": "letter-e"
+                  "unitId": "letter-e",
+                  "silent": true
                 }
               ]
             }
@@ -1595,10 +1601,10 @@
             {
               "id": "supplement-1",
               "segmentationId": "initial",
-              "missingSegmentIndex": 1,
+              "missingSegmentIndex": 0,
               "distractorUnitIds": [
-                "letter-a",
-                "letter-f"
+                "syllable-fa",
+                "syllable-fo"
               ],
               "answerPosition": 1,
               "order": 1617
@@ -4543,7 +4549,10 @@
           "unitId": "practice-rue",
           "segmentUnitIds": [
             "syllable-ru",
-            "letter-e"
+            {
+              "unitId": "letter-e",
+              "silent": true
+            }
           ]
         }
       ]
@@ -4557,7 +4566,10 @@
           "segmentUnitIds": [
             "syllable-fu",
             "syllable-mé",
-            "letter-e"
+            {
+              "unitId": "letter-e",
+              "silent": true
+            }
           ]
         }
       ]
@@ -4570,7 +4582,10 @@
           "unitId": "practice-fee",
           "segmentUnitIds": [
             "syllable-fé",
-            "letter-e"
+            {
+              "unitId": "letter-e",
+              "silent": true
+            }
           ]
         }
       ]
@@ -4786,7 +4801,10 @@
           "unitId": "practice-rue",
           "segmentUnitIds": [
             "syllable-ru",
-            "letter-e"
+            {
+              "unitId": "letter-e",
+              "silent": true
+            }
           ]
         },
         {
@@ -4794,14 +4812,20 @@
           "segmentUnitIds": [
             "syllable-fu",
             "syllable-mé",
-            "letter-e"
+            {
+              "unitId": "letter-e",
+              "silent": true
+            }
           ]
         },
         {
           "unitId": "practice-fee",
           "segmentUnitIds": [
             "syllable-fé",
-            "letter-e"
+            {
+              "unitId": "letter-e",
+              "silent": true
+            }
           ]
         }
       ]
