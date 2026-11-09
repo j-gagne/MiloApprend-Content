@@ -5,9 +5,7 @@
     "activeWeek": 10,
     "exerciseScope": {
       "mode": "all",
-      "selectedWeeks": [
-        10
-      ]
+      "selectedWeeks": []
     }
   },
   "weeks": [
