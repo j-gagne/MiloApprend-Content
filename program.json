@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "programId": "milo-school-program",
   "defaults": {
-    "activeWeek": 6,
+    "activeWeek": 10,
     "exerciseScope": {
-      "mode": "selected-weeks",
+      "mode": "all",
       "selectedWeeks": [
-        6
+        10
       ]
     }
   },
@@ -4322,6 +4322,661 @@
       ],
       "toolWords": [],
       "sentences": []
+    },
+    {
+      "number": 10,
+      "label": "Semaine 10",
+      "letters": [
+        "p",
+        "z"
+      ],
+      "syllables": [
+        "pa",
+        "zin",
+        "pon",
+        "zè",
+        "pin",
+        "zou",
+        "pri",
+        "zé",
+        "tro",
+        "pou",
+        "zu",
+        "pi",
+        "ip",
+        "oz",
+        "onp",
+        "inz",
+        "ap",
+        "ouz",
+        "inp",
+        "up"
+      ],
+      "words": [
+        {
+          "id": "w10-photo-poussin",
+          "display": "poussin",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pou"
+                },
+                {
+                  "literal": "ssin",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐥",
+            "label": "Un poussin"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-pa",
+                "syllable-pi"
+              ],
+              "answerPosition": 1,
+              "order": 1900
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-zero",
+          "display": "zéro",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-zé"
+                },
+                {
+                  "unitId": "syllable-ro"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "0️⃣",
+            "label": "Zéro"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-pa",
+                "syllable-zè"
+              ],
+              "answerPosition": 2,
+              "order": 1901
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-papa",
+          "display": "papa",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pa"
+                },
+                {
+                  "unitId": "syllable-pa"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "👨",
+            "label": "Papa"
+          }
+        },
+        {
+          "id": "w10-photo-patin",
+          "display": "patin",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pa"
+                },
+                {
+                  "unitId": "letter-t"
+                },
+                {
+                  "unitId": "grapheme-in"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "⛸️",
+            "label": "Un patin"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 2,
+              "distractorUnitIds": [
+                "grapheme-on",
+                "grapheme-ou"
+              ],
+              "answerPosition": 0,
+              "order": 1902
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-peche",
+          "display": "pêche",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "pê",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                },
+                {
+                  "unitId": "syllable-che"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🍑",
+            "label": "Une pêche"
+          }
+        },
+        {
+          "id": "w10-photo-poule",
+          "display": "poule",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pou"
+                },
+                {
+                  "unitId": "syllable-le"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐔",
+            "label": "Une poule"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-pa",
+                "syllable-pi"
+              ],
+              "answerPosition": 1,
+              "order": 1903
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-poupee",
+          "display": "poupée",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pou"
+                },
+                {
+                  "literal": "pé",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                },
+                {
+                  "unitId": "letter-e",
+                  "silent": true
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🪆",
+            "label": "Une poupée"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-pa",
+                "syllable-pi"
+              ],
+              "answerPosition": 2,
+              "order": 1904
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-pirate",
+          "display": "pirate",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pi"
+                },
+                {
+                  "unitId": "syllable-ra"
+                },
+                {
+                  "unitId": "syllable-te"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🏴‍☠️",
+            "label": "Un pirate"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ri",
+                "syllable-ro"
+              ],
+              "answerPosition": 0,
+              "order": 1905
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-piano",
+          "display": "piano",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pi"
+                },
+                {
+                  "unitId": "letter-a"
+                },
+                {
+                  "unitId": "syllable-no"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🎹",
+            "label": "Un piano"
+          }
+        },
+        {
+          "id": "w10-photo-zebre",
+          "display": "zèbre",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-zè"
+                },
+                {
+                  "literal": "bre",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🦓",
+            "label": "Un zèbre"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-zé",
+                "syllable-pa"
+              ],
+              "answerPosition": 1,
+              "order": 1906
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-pomme",
+          "display": "pomme",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "po",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                },
+                {
+                  "literal": "mme",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🍎",
+            "label": "Une pomme"
+          }
+        },
+        {
+          "id": "w10-photo-patate",
+          "display": "patate",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pa"
+                },
+                {
+                  "unitId": "syllable-ta"
+                },
+                {
+                  "unitId": "syllable-te"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🥔",
+            "label": "Une patate"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ti",
+                "syllable-to"
+              ],
+              "answerPosition": 2,
+              "order": 1907
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-lapin",
+          "display": "lapin",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-la"
+                },
+                {
+                  "literal": "p",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                },
+                {
+                  "unitId": "grapheme-in"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🐰",
+            "label": "Un lapin"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-li",
+                "syllable-lu"
+              ],
+              "answerPosition": 0,
+              "order": 1908
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-pere",
+          "display": "père",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "pè",
+                  "note": "Graphie visible ; unité non enseignée isolément."
+                },
+                {
+                  "unitId": "syllable-re"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "👨",
+            "label": "Un père"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ra",
+                "syllable-ri"
+              ],
+              "answerPosition": 1,
+              "order": 1909
+            }
+          ]
+        },
+        {
+          "id": "w10-photo-pont",
+          "display": "pont",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-pon"
+                },
+                {
+                  "unitId": "letter-t",
+                  "silent": true
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🌉",
+            "label": "Un pont"
+          },
+          "completeWord": [
+            {
+              "id": "initial",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-pin",
+                "syllable-pou"
+              ],
+              "answerPosition": 2,
+              "order": 1910
+            }
+          ]
+        }
+      ],
+      "toolWords": [
+        "un",
+        "une",
+        "est",
+        "avec",
+        "j’ai",
+        "et",
+        "il",
+        "elle"
+      ],
+      "sentences": [
+        {
+          "id": "sentence-w10-001",
+          "display": "Le poussin a une plume."
+        },
+        {
+          "id": "sentence-w10-002",
+          "display": "Zoé a un patin."
+        },
+        {
+          "id": "sentence-w10-003",
+          "display": "Zéro est un chiffre."
+        },
+        {
+          "id": "sentence-w10-004",
+          "display": "Le zèbre vole un melon."
+        },
+        {
+          "id": "sentence-w10-005",
+          "display": "J’ai vu une patate à vélo."
+        },
+        {
+          "id": "sentence-w10-006",
+          "display": "Zut ! J’ai échappé ma soupe."
+        },
+        {
+          "id": "sentence-w10-007",
+          "display": "Le zébu marche."
+        },
+        {
+          "id": "sentence-w10-008",
+          "display": "Le pirate vole une pépite."
+        },
+        {
+          "id": "sentence-w10-009",
+          "display": "Papa a une pomme."
+        },
+        {
+          "id": "sentence-w10-010",
+          "display": "Le lapin a une patate."
+        },
+        {
+          "id": "sentence-w10-011",
+          "display": "Zoé a une poupée."
+        },
+        {
+          "id": "sentence-w10-012",
+          "display": "Le pirate a un piano."
+        },
+        {
+          "id": "sentence-w10-013",
+          "display": "Le poussin est sur le pont."
+        },
+        {
+          "id": "sentence-w10-014",
+          "display": "Le zèbre a une pomme."
+        },
+        {
+          "id": "sentence-w10-015",
+          "display": "Papa a un patin et une pomme."
+        },
+        {
+          "id": "sentence-w10-016",
+          "display": "Le lapin est avec le poussin."
+        },
+        {
+          "id": "sentence-w10-017",
+          "display": "Le pirate a une poupée."
+        },
+        {
+          "id": "sentence-w10-018",
+          "display": "La poule a une pêche."
+        },
+        {
+          "id": "sentence-w10-019",
+          "display": "Le père a un piano."
+        },
+        {
+          "id": "sentence-w10-020",
+          "display": "Le zèbre est avec le lapin."
+        }
+      ]
     }
   ],
   "readingExercises": [
@@ -5776,6 +6431,243 @@
         },
         {
           "unitId": "sentence-w8-060"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-pa"
+        },
+        {
+          "unitId": "syllable-zin"
+        },
+        {
+          "unitId": "syllable-pon"
+        },
+        {
+          "unitId": "syllable-zè"
+        },
+        {
+          "unitId": "syllable-pin"
+        },
+        {
+          "unitId": "syllable-zou"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-syllables-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-pri"
+        },
+        {
+          "unitId": "syllable-zé"
+        },
+        {
+          "unitId": "syllable-tro"
+        },
+        {
+          "unitId": "syllable-pou"
+        },
+        {
+          "unitId": "syllable-zu"
+        },
+        {
+          "unitId": "syllable-pi"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-syllables-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ip"
+        },
+        {
+          "unitId": "syllable-oz"
+        },
+        {
+          "unitId": "syllable-onp"
+        },
+        {
+          "unitId": "syllable-inz"
+        },
+        {
+          "unitId": "syllable-ap"
+        },
+        {
+          "unitId": "syllable-ouz"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-syllables-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-inp"
+        },
+        {
+          "unitId": "syllable-up"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-photo-words-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w10-photo-poussin"
+        },
+        {
+          "unitId": "w10-photo-zero"
+        },
+        {
+          "unitId": "w10-photo-papa"
+        },
+        {
+          "unitId": "w10-photo-patin"
+        },
+        {
+          "unitId": "w10-photo-peche"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-photo-words-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w10-photo-poule"
+        },
+        {
+          "unitId": "w10-photo-poupee"
+        },
+        {
+          "unitId": "w10-photo-pirate"
+        },
+        {
+          "unitId": "w10-photo-piano"
+        },
+        {
+          "unitId": "w10-photo-zebre"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-photo-words-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w10-photo-pomme"
+        },
+        {
+          "unitId": "w10-photo-patate"
+        },
+        {
+          "unitId": "w10-photo-lapin"
+        },
+        {
+          "unitId": "w10-photo-pere"
+        },
+        {
+          "unitId": "w10-photo-pont"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-sentences-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w10-001"
+        },
+        {
+          "unitId": "sentence-w10-002"
+        },
+        {
+          "unitId": "sentence-w10-003"
+        },
+        {
+          "unitId": "sentence-w10-004"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-sentences-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w10-005"
+        },
+        {
+          "unitId": "sentence-w10-006"
+        },
+        {
+          "unitId": "sentence-w10-007"
+        },
+        {
+          "unitId": "sentence-w10-008"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-sentences-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w10-009"
+        },
+        {
+          "unitId": "sentence-w10-010"
+        },
+        {
+          "unitId": "sentence-w10-011"
+        },
+        {
+          "unitId": "sentence-w10-012"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-sentences-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w10-013"
+        },
+        {
+          "unitId": "sentence-w10-014"
+        },
+        {
+          "unitId": "sentence-w10-015"
+        },
+        {
+          "unitId": "sentence-w10-016"
+        }
+      ]
+    },
+    {
+      "id": "reading-w10-sentences-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w10-017"
+        },
+        {
+          "unitId": "sentence-w10-018"
+        },
+        {
+          "unitId": "sentence-w10-019"
+        },
+        {
+          "unitId": "sentence-w10-020"
         }
       ]
     }
