@@ -10,6 +10,29 @@
   },
   "weeks": [
     {
+      "number": 1,
+      "label": "Semaine 1",
+      "letters": [],
+      "syllables": [],
+      "words": [],
+      "toolWords": [],
+      "sentences": [],
+      "mathematics": {
+        "numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    },
+    {
       "number": 2,
       "label": "Semaine 2",
       "letters": [
@@ -4974,7 +4997,16 @@
           "id": "sentence-w10-020",
           "display": "Le zèbre est avec le lapin."
         }
-      ]
+      ],
+      "mathematics": {
+        "numbers": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      }
     }
   ],
   "readingExercises": [
@@ -6667,6 +6699,799 @@
         {
           "unitId": "sentence-w10-020"
         }
+      ]
+    }
+  ],
+  "mathExercises": [
+    {
+      "id": "math:curated-order-1-5",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "math:curated-missing-1-5-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": "math:curated-missing-1-5-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "math:curated-missing-1-5-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": "math:curated-order-2-6",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "math:curated-missing-2-6-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": "math:curated-missing-2-6-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": "math:curated-missing-2-6-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        9,
+        1
+      ]
+    },
+    {
+      "id": "math:curated-order-3-7",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "math:curated-missing-3-7-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": "math:curated-missing-3-7-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        9,
+        1
+      ]
+    },
+    {
+      "id": "math:curated-missing-3-7-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        10,
+        2
+      ]
+    },
+    {
+      "id": "math:curated-order-4-8",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": "math:curated-missing-4-8-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        9,
+        1
+      ]
+    },
+    {
+      "id": "math:curated-missing-4-8-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        10,
+        2
+      ]
+    },
+    {
+      "id": "math:curated-missing-4-8-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "math:curated-order-5-9",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "math:curated-missing-5-9-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        10,
+        2
+      ]
+    },
+    {
+      "id": "math:curated-missing-5-9-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "math:curated-missing-5-9-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "math:curated-order-6-10",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "id": "math:curated-missing-6-10-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "math:curated-missing-6-10-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "math:curated-missing-6-10-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "math:curated-hear-1-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 1,
+      "distractors": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": "math:curated-hear-1-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 1,
+      "distractors": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "math:curated-hear-2-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 2,
+      "distractors": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": "math:curated-hear-2-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 2,
+      "distractors": [
+        6,
+        9
+      ]
+    },
+    {
+      "id": "math:curated-hear-3-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 3,
+      "distractors": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "math:curated-hear-3-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 3,
+      "distractors": [
+        7,
+        10
+      ]
+    },
+    {
+      "id": "math:curated-hear-4-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 4,
+      "distractors": [
+        6,
+        9
+      ]
+    },
+    {
+      "id": "math:curated-hear-4-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 4,
+      "distractors": [
+        8,
+        1
+      ]
+    },
+    {
+      "id": "math:curated-hear-5-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 5,
+      "distractors": [
+        7,
+        10
+      ]
+    },
+    {
+      "id": "math:curated-hear-5-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 5,
+      "distractors": [
+        9,
+        2
+      ]
+    },
+    {
+      "id": "math:curated-hear-6-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 6,
+      "distractors": [
+        8,
+        1
+      ]
+    },
+    {
+      "id": "math:curated-hear-6-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 6,
+      "distractors": [
+        10,
+        3
+      ]
+    },
+    {
+      "id": "math:curated-hear-7-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 7,
+      "distractors": [
+        9,
+        2
+      ]
+    },
+    {
+      "id": "math:curated-hear-7-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 7,
+      "distractors": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "math:curated-hear-8-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 8,
+      "distractors": [
+        10,
+        3
+      ]
+    },
+    {
+      "id": "math:curated-hear-8-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 8,
+      "distractors": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": "math:curated-hear-9-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 9,
+      "distractors": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "math:curated-hear-9-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 9,
+      "distractors": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": "math:curated-hear-10-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 10,
+      "distractors": [
+        2,
+        5
+      ]
+    },
+    {
+      "id": "math:curated-hear-10-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 10,
+      "distractors": [
+        4,
+        7
+      ]
+    },
+    {
+      "id": "math:curated-order-11-15",
+      "type": "ORDER_NUMBERS",
+      "enabled": true,
+      "sequence": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "math:curated-missing-11-15-at-1",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "missingIndex": 1,
+      "distractors": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": "math:curated-missing-11-15-at-2",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "missingIndex": 2,
+      "distractors": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "math:curated-missing-11-15-at-3",
+      "type": "MISSING_NUMBER",
+      "enabled": true,
+      "sequence": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "missingIndex": 3,
+      "distractors": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "math:curated-hear-11-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 11,
+      "distractors": [
+        15,
+        14
+      ]
+    },
+    {
+      "id": "math:curated-hear-11-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 11,
+      "distractors": [
+        13,
+        12
+      ]
+    },
+    {
+      "id": "math:curated-hear-11-v3",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 11,
+      "distractors": [
+        15,
+        14
+      ]
+    },
+    {
+      "id": "math:curated-hear-12-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 12,
+      "distractors": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": "math:curated-hear-12-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 12,
+      "distractors": [
+        14,
+        13
+      ]
+    },
+    {
+      "id": "math:curated-hear-12-v3",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 12,
+      "distractors": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": "math:curated-hear-13-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 13,
+      "distractors": [
+        12,
+        11
+      ]
+    },
+    {
+      "id": "math:curated-hear-13-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 13,
+      "distractors": [
+        15,
+        14
+      ]
+    },
+    {
+      "id": "math:curated-hear-13-v3",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 13,
+      "distractors": [
+        12,
+        11
+      ]
+    },
+    {
+      "id": "math:curated-hear-14-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 14,
+      "distractors": [
+        13,
+        12
+      ]
+    },
+    {
+      "id": "math:curated-hear-14-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 14,
+      "distractors": [
+        11,
+        15
+      ]
+    },
+    {
+      "id": "math:curated-hear-14-v3",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 14,
+      "distractors": [
+        13,
+        12
+      ]
+    },
+    {
+      "id": "math:curated-hear-15-v1",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 15,
+      "distractors": [
+        14,
+        13
+      ]
+    },
+    {
+      "id": "math:curated-hear-15-v2",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 15,
+      "distractors": [
+        12,
+        11
+      ]
+    },
+    {
+      "id": "math:curated-hear-15-v3",
+      "type": "HEAR_NUMBER",
+      "enabled": true,
+      "target": 15,
+      "distractors": [
+        14,
+        13
       ]
     }
   ]
