@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "programId": "milo-school-program",
   "defaults": {
-    "activeWeek": 10,
+    "activeWeek": 11,
     "exerciseScope": {
       "mode": "all",
       "selectedWeeks": []
@@ -5013,6 +5013,772 @@
         "tool-word-il",
         "tool-word-elle"
       ]
+    },
+    {
+      "number": 11,
+      "label": "Semaine 11",
+      "letters": [
+        "d"
+      ],
+      "graphemes": [
+        {
+          "id": "grapheme-eu",
+          "display": "eu",
+          "audioText": "deux"
+        }
+      ],
+      "syllables": [
+        "dra",
+        "din",
+        "veu",
+        "dè",
+        "peu",
+        "dri",
+        "dé",
+        "bra",
+        "dou",
+        "leu",
+        "pu",
+        "id",
+        "oub",
+        "ad",
+        "euf",
+        "ud",
+        "ond",
+        "euz",
+        "ab"
+      ],
+      "words": [
+        {
+          "id": "w11-word-01",
+          "display": "jeu",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-j"
+                },
+                {
+                  "unitId": "grapheme-eu"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🎲",
+            "label": "Un jeu"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "grapheme-ch",
+                "grapheme-in"
+              ],
+              "answerPosition": 0,
+              "order": 2100
+            }
+          ]
+        },
+        {
+          "id": "w11-word-02",
+          "display": "idée",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-i"
+                },
+                {
+                  "unitId": "syllable-dé"
+                },
+                {
+                  "unitId": "letter-e"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "💡",
+            "label": "Une idée"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-dè",
+                "syllable-ab"
+              ],
+              "answerPosition": 1,
+              "order": 2101
+            }
+          ]
+        },
+        {
+          "id": "w11-word-03",
+          "display": "dindon",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-din"
+                },
+                {
+                  "literal": "don",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🦃",
+            "label": "Un dindon"
+          },
+          "completeWord": [
+            {
+              "id": "segment-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-dou",
+                "syllable-dra"
+              ],
+              "answerPosition": 2,
+              "order": 2102
+            }
+          ]
+        },
+        {
+          "id": "w11-word-04",
+          "display": "feu",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-f"
+                },
+                {
+                  "unitId": "grapheme-eu"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🔥",
+            "label": "Un feu"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "grapheme-ch",
+                "grapheme-in"
+              ],
+              "answerPosition": 0,
+              "order": 2103
+            }
+          ]
+        },
+        {
+          "id": "w11-word-05",
+          "display": "peur",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-peu"
+                },
+                {
+                  "unitId": "letter-r"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "😨",
+            "label": "La peur"
+          },
+          "completeWord": [
+            {
+              "id": "segment-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-pin",
+                "syllable-pon"
+              ],
+              "answerPosition": 1,
+              "order": 2104
+            }
+          ]
+        },
+        {
+          "id": "w11-word-06",
+          "display": "bleu",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-b"
+                },
+                {
+                  "unitId": "syllable-leu"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🔵",
+            "label": "La couleur bleue"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-lon",
+                "syllable-lou"
+              ],
+              "answerPosition": 2,
+              "order": 2105
+            }
+          ]
+        },
+        {
+          "id": "w11-word-07",
+          "display": "deux",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-d"
+                },
+                {
+                  "unitId": "grapheme-eu"
+                },
+                {
+                  "literal": "x",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "2️⃣",
+            "label": "Deux"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "grapheme-ch",
+                "grapheme-in"
+              ],
+              "answerPosition": 0,
+              "order": 2106
+            }
+          ]
+        },
+        {
+          "id": "w11-word-08",
+          "display": "fleur",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-f"
+                },
+                {
+                  "unitId": "syllable-leu"
+                },
+                {
+                  "unitId": "letter-r"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🌸",
+            "label": "Une fleur"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-lon",
+                "syllable-lou"
+              ],
+              "answerPosition": 1,
+              "order": 2107
+            }
+          ]
+        },
+        {
+          "id": "w11-word-09",
+          "display": "salade",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-sa"
+                },
+                {
+                  "unitId": "syllable-la"
+                },
+                {
+                  "literal": "de",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🥗",
+            "label": "Une salade"
+          },
+          "completeWord": [
+            {
+              "id": "segment-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-se",
+                "syllable-si"
+              ],
+              "answerPosition": 2,
+              "order": 2108
+            },
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-le",
+                "syllable-li"
+              ],
+              "answerPosition": 0,
+              "order": 2109
+            }
+          ]
+        },
+        {
+          "id": "w11-word-10",
+          "display": "mardi",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "mar",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                },
+                {
+                  "literal": "di",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "📅",
+            "label": "Mardi"
+          }
+        },
+        {
+          "id": "w11-word-11",
+          "display": "dire",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "di",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                },
+                {
+                  "unitId": "syllable-re"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🗣️",
+            "label": "Dire"
+          },
+          "completeWord": [
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-ra",
+                "syllable-ri"
+              ],
+              "answerPosition": 1,
+              "order": 2110
+            }
+          ]
+        },
+        {
+          "id": "w11-word-12",
+          "display": "dormir",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "dor",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                },
+                {
+                  "literal": "mir",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "😴",
+            "label": "Dormir"
+          }
+        },
+        {
+          "id": "w11-word-13",
+          "display": "feuille",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "feu",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                },
+                {
+                  "literal": "ille",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🍃",
+            "label": "Une feuille"
+          }
+        },
+        {
+          "id": "w11-word-14",
+          "display": "pneu",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "letter-p"
+                },
+                {
+                  "literal": "neu",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🛞",
+            "label": "Un pneu"
+          }
+        },
+        {
+          "id": "w11-word-15",
+          "display": "couleur",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "cou",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                },
+                {
+                  "literal": "leur",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🎨",
+            "label": "Une couleur"
+          }
+        },
+        {
+          "id": "w11-word-16",
+          "display": "dodu",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "literal": "do",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                },
+                {
+                  "literal": "du",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🦃",
+            "label": "Dodu"
+          }
+        },
+        {
+          "id": "w11-word-17",
+          "display": "boude",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-bou"
+                },
+                {
+                  "literal": "de",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "😠",
+            "label": "Boude"
+          },
+          "completeWord": [
+            {
+              "id": "segment-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-bon",
+                "syllable-bra"
+              ],
+              "answerPosition": 2,
+              "order": 2111
+            }
+          ]
+        },
+        {
+          "id": "w11-word-18",
+          "display": "dédé",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-dé"
+                },
+                {
+                  "unitId": "syllable-dé"
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🧒",
+            "label": "Dédé"
+          }
+        },
+        {
+          "id": "w11-word-19",
+          "display": "balade",
+          "tags": [
+            "practice"
+          ],
+          "segmentations": [
+            {
+              "id": "initial",
+              "segments": [
+                {
+                  "unitId": "syllable-ba"
+                },
+                {
+                  "unitId": "syllable-la"
+                },
+                {
+                  "literal": "de",
+                  "note": "Graphie visible dans le document scolaire ; unité non confirmée comme réponse isolée."
+                }
+              ]
+            }
+          ],
+          "imageAsset": {
+            "emoji": "🚶",
+            "label": "Une balade"
+          },
+          "completeWord": [
+            {
+              "id": "segment-0",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 0,
+              "distractorUnitIds": [
+                "syllable-be",
+                "syllable-bi"
+              ],
+              "answerPosition": 0,
+              "order": 2112
+            },
+            {
+              "id": "segment-1",
+              "segmentationId": "initial",
+              "missingSegmentIndex": 1,
+              "distractorUnitIds": [
+                "syllable-le",
+                "syllable-li"
+              ],
+              "answerPosition": 1,
+              "order": 2113
+            }
+          ]
+        }
+      ],
+      "toolWords": [
+        "les",
+        "mes",
+        "des"
+      ],
+      "sentences": [
+        {
+          "id": "sentence-w11-001",
+          "display": "Le bébé boude."
+        },
+        {
+          "id": "sentence-w11-002",
+          "display": "Il est triste."
+        },
+        {
+          "id": "sentence-w11-003",
+          "display": "J’ai peur des monstres !"
+        },
+        {
+          "id": "sentence-w11-004",
+          "display": "Mathieu allume les feux."
+        },
+        {
+          "id": "sentence-w11-005",
+          "display": "Le dindon est dodu."
+        },
+        {
+          "id": "sentence-w11-006",
+          "display": "J’ai deux idées !"
+        },
+        {
+          "id": "sentence-w11-007",
+          "display": "Dédé va dormir."
+        },
+        {
+          "id": "sentence-w11-008",
+          "display": "Mon papa se balade."
+        },
+        {
+          "id": "sentence-w11-009",
+          "display": "Madame Merola nous a visités."
+        },
+        {
+          "id": "sentence-w11-010",
+          "display": "Elle est bonne en dessins."
+        },
+        {
+          "id": "sentence-w11-011",
+          "display": "Elle est drôle."
+        }
+      ],
+      "reviewedUnitIds": [
+        "letter-b",
+        "letter-j",
+        "letter-p",
+        "letter-z",
+        "tool-word-un",
+        "tool-word-une",
+        "tool-word-avec",
+        "tool-word-j’ai",
+        "tool-word-et",
+        "syllable-zin"
+      ]
     }
   ],
   "readingExercises": [
@@ -6704,6 +7470,288 @@
         },
         {
           "unitId": "sentence-w10-020"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-letters-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "letter-d"
+        },
+        {
+          "unitId": "letter-b"
+        },
+        {
+          "unitId": "letter-j"
+        },
+        {
+          "unitId": "letter-p"
+        },
+        {
+          "unitId": "letter-z"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-syllables-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-dra"
+        },
+        {
+          "unitId": "syllable-din"
+        },
+        {
+          "unitId": "syllable-veu"
+        },
+        {
+          "unitId": "syllable-dè"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-syllables-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-peu"
+        },
+        {
+          "unitId": "syllable-dri"
+        },
+        {
+          "unitId": "syllable-dé"
+        },
+        {
+          "unitId": "syllable-bra"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-syllables-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-dou"
+        },
+        {
+          "unitId": "syllable-leu"
+        },
+        {
+          "unitId": "syllable-pu"
+        },
+        {
+          "unitId": "syllable-id"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-syllables-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-oub"
+        },
+        {
+          "unitId": "syllable-ad"
+        },
+        {
+          "unitId": "syllable-euf"
+        },
+        {
+          "unitId": "syllable-ud"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-syllables-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "syllable-ond"
+        },
+        {
+          "unitId": "syllable-euz"
+        },
+        {
+          "unitId": "syllable-ab"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-tool-words-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "tool-word-les"
+        },
+        {
+          "unitId": "tool-word-mes"
+        },
+        {
+          "unitId": "tool-word-des"
+        },
+        {
+          "unitId": "tool-word-un"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-tool-words-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "tool-word-une"
+        },
+        {
+          "unitId": "tool-word-avec"
+        },
+        {
+          "unitId": "tool-word-j’ai"
+        },
+        {
+          "unitId": "tool-word-et"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-words-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w11-word-01"
+        },
+        {
+          "unitId": "w11-word-02"
+        },
+        {
+          "unitId": "w11-word-03"
+        },
+        {
+          "unitId": "w11-word-04"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-words-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w11-word-05"
+        },
+        {
+          "unitId": "w11-word-06"
+        },
+        {
+          "unitId": "w11-word-07"
+        },
+        {
+          "unitId": "w11-word-08"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-words-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w11-word-09"
+        },
+        {
+          "unitId": "w11-word-10"
+        },
+        {
+          "unitId": "w11-word-11"
+        },
+        {
+          "unitId": "w11-word-12"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-words-4",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w11-word-13"
+        },
+        {
+          "unitId": "w11-word-14"
+        },
+        {
+          "unitId": "w11-word-15"
+        },
+        {
+          "unitId": "w11-word-16"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-words-5",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "w11-word-17"
+        },
+        {
+          "unitId": "w11-word-18"
+        },
+        {
+          "unitId": "w11-word-19"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-sentences-1",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w11-001"
+        },
+        {
+          "unitId": "sentence-w11-002"
+        },
+        {
+          "unitId": "sentence-w11-003"
+        },
+        {
+          "unitId": "sentence-w11-004"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-sentences-2",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w11-005"
+        },
+        {
+          "unitId": "sentence-w11-006"
+        },
+        {
+          "unitId": "sentence-w11-007"
+        },
+        {
+          "unitId": "sentence-w11-008"
+        }
+      ]
+    },
+    {
+      "id": "reading-w11-sentences-3",
+      "enabled": true,
+      "displayedUnits": [
+        {
+          "unitId": "sentence-w11-009"
+        },
+        {
+          "unitId": "sentence-w11-010"
+        },
+        {
+          "unitId": "sentence-w11-011"
         }
       ]
     }
