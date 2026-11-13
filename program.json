@@ -1730,7 +1730,6 @@
         }
       ],
       "toolWords": [
-        "il",
         "elle",
         "est"
       ],
@@ -1777,7 +1776,8 @@
         }
       ],
       "reviewedUnitIds": [
-        "letter-n"
+        "letter-n",
+        "tool-word-il"
       ]
     },
     {
@@ -1849,8 +1849,6 @@
         "chou",
         "èf",
         "our",
-        "iv",
-        "ach",
         "êv",
         "oum",
         "ur",
@@ -2186,7 +2184,7 @@
                   "unitId": "syllable-rê"
                 },
                 {
-                  "literal": "letter-t",
+                  "literal": "t",
                   "note": "Segment visible, non utilisé comme réponse."
                 }
               ]
@@ -2501,10 +2499,7 @@
         }
       ],
       "toolWords": [
-        "il",
-        "elle",
         "il y a",
-        "est",
         "et"
       ],
       "sentences": [
@@ -2576,6 +2571,13 @@
           "id": "sentence-w7-017",
           "display": "Le loup est dans la forêt."
         }
+      ],
+      "reviewedUnitIds": [
+        "syllable-iv",
+        "syllable-ach",
+        "tool-word-il",
+        "tool-word-elle",
+        "tool-word-est"
       ]
     },
     {
@@ -2762,7 +2764,7 @@
               "distractorUnitIds": [
                 "grapheme-ou"
               ],
-              "answerPosition": 2,
+              "answerPosition": 1,
               "order": 39
             },
             {
@@ -3784,10 +3786,6 @@
         }
       ],
       "toolWords": [
-        "il",
-        "elle",
-        "est",
-        "et",
         "j’ai",
         "un",
         "une"
@@ -4033,6 +4031,12 @@
           "id": "sentence-w8-060",
           "display": "La mère a vu le savon."
         }
+      ],
+      "reviewedUnitIds": [
+        "tool-word-il",
+        "tool-word-elle",
+        "tool-word-est",
+        "tool-word-et"
       ]
     },
     {
@@ -4907,14 +4911,7 @@
         }
       ],
       "toolWords": [
-        "un",
-        "une",
-        "est",
-        "avec",
-        "j’ai",
-        "et",
-        "il",
-        "elle"
+        "avec"
       ],
       "sentences": [
         {
@@ -5006,7 +5003,16 @@
           14,
           15
         ]
-      }
+      },
+      "reviewedUnitIds": [
+        "tool-word-un",
+        "tool-word-une",
+        "tool-word-est",
+        "tool-word-j’ai",
+        "tool-word-et",
+        "tool-word-il",
+        "tool-word-elle"
+      ]
     }
   ],
   "readingExercises": [
